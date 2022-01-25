@@ -1,5 +1,8 @@
-# Step 7: Choose Your Own Adventure
-## Due: Dec 15th, 5 pm EDT (10 pm UTC)
+# Compiler Project
+
+A C-like language to a modified RISC-V Compiler using ANTLR for parsing and AST post-processing Java classes for code generation. All stages are completed - scanning, parsing, AST generation, and assembly code generation.
+
+The description below contains the setup and usage. All development work was completed in a Docker development container containing common tools needed.
 
 ## Setting up your repository
 
